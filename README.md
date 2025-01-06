@@ -12,7 +12,7 @@
     - [AWS Service Quotas](01-accounts/service-quotas.md)
 2. Advanced Identities and Federation
     - [SAML 2.0 Identity Federation](02-identity/saml.md)
-    - [IAM Identity Center (Successor to AWS Single Sing-On - SSO)](02-identity/identity-center.md)
+    - [IAM Identity Center (Successor to AWS Single Sign-On - SSO)](02-identity/identity-center.md)
     - [Amazon Cognito](02-identity/cognito.md)
     - [Amazon Workspaces](02-identity/workspaces.md)
     - [AD Connector](02-identity/ad-connector.md)
