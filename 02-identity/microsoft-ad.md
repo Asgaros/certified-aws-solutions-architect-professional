@@ -1,4 +1,4 @@
-# AD Connector (Directory Services)
+# Microsoft AD (Directory Services)
 
 - Built using a native Microsoft Active Directory implementation
 - Running fully independently of any on-premises Active Directory
