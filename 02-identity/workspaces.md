@@ -7,7 +7,7 @@
 - We can have Windows and Linux workspaces in various sizes
 - We can use commercial applications on the workspaces
 - Workspaces can be charged on monthly or hourly basis. There is an additional monthly infrastructure cost, which is applied even in case when we are billed hourly
-- Workspaces use Directory Service (Simple, AD, AD Connector) for authentication and user management
+- Workspaces use Directory Service (Simple AD, AD Connector, Managed Microsoft AD) for authentication and user management
 - Each workspace uses an ENI (Elastic Network Interface) injected in a VPC
 - Workspaces are accessed using client software from desktop/laptop, bandwidth is included free of charge. For any other internet access from the workspaces normal VPC infrastructure is used and charged accordingly
 - Windows workspaces can access FSx and EC2 windows resources
