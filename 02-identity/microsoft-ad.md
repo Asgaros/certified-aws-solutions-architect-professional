@@ -19,3 +19,7 @@
 - Supports RADIUS-based MFA by integrating into already existing RADIUS infrastructure
 - Best choice if a directory is required which supports more than 5,000 users and for which a trust relationship between AWS and an existing on-premises Active Directory infrastructure is required
 - Workloads in AWS can continue to operate if a network link to the on-premises environment fails
+
+## Microsoft AD Architecture
+
+![Microsoft AD](images/DirectoryServiceMicrosoftAD.png)
