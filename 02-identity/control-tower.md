@@ -14,7 +14,7 @@
 - **Guard Rails**: used to detect/mandate rules and standards across all accounts
 - **Account Factory**: automates and standardizes new account creation
 - **Dashboard**: single page oversight of the entire environment
-- When Control Tower is set up, it creates to OUs:
+- When Control Tower is set up, it creates two OUs:
     - Foundational OU (security)
     - Custom OU (sandbox)
 - Inside the Foundational OU Control Tower creates two accounts:
@@ -45,7 +45,7 @@
     - Elective
 - Guardrails function in two different ways:
     - Preventive: stop us from doing things
-        - They are implement using SCPs
+        - They are implemented using SCPs
         - They are enforced or not enabled
         - Example: allow or deny regions; disallow bucket policy changes in the Org
     - Detective: compliance check
