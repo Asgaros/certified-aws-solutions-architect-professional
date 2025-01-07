@@ -15,7 +15,8 @@
     - [IAM Identity Center (Successor to AWS Single Sign-On - SSO)](02-identity/identity-center.md)
     - [Amazon Cognito](02-identity/cognito.md)
     - [Amazon Workspaces](02-identity/workspaces.md)
-    - [AD Connector](02-identity/ad-connector.md)
+    - [AD Connector (Directory Services)](02-identity/ad-connector.md)
+    - [Microsoft AD (Directory Services)](02-identity/microsoft-ad.md)
     - [AWS Control Tower](02-identity/control-tower.md)
 3. Networking and Hybrid
     - [VPC - Virtual Private Cloud](03-networking/vpc.md)
