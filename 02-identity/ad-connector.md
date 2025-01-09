@@ -20,4 +20,4 @@
 - Prof of concept projects, we don't want to move our Active Directory to AWS for it
 - We have a small infrastructure in AWS and we don't want to move the Active Directory to AWS
 - Legal/compliance reasons - we don't want to store user info in AWS
-- For larger requirements use AWS Directory Service
+- For larger requirements use other directory services such as Microsoft AD
